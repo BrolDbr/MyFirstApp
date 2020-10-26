@@ -2,4 +2,8 @@
     <string name="app_name">My First App</string>
     <string name="im01_descr">Bridge</string>
     <string name="welcome_msg">Bienvenue sur mon application</string>
+    <string name="points_msg">Points : 0</string>
+    <string name="cookie_descr">Cookie</string>
+
+
 </resources>
